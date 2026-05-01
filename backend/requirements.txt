@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+groq
+langchain
+langchain-groq
+duckdb
+pandas
+requests
+beautifulsoup4
+python-dotenv

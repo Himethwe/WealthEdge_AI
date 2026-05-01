@@ -1,0 +1,15 @@
+# Editor / OS
+.vscode/
+.DS_Store
+
+# Backend (Python)
+backend/venv/
+backend/__pycache__/
+backend/.env
+backend/investment_data.db
+*.pyc
+*.pyo
+
+# Frontend (Node/Vite)
+frontend/node_modules/
+frontend/dist/

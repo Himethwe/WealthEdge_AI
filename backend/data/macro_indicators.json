@@ -1,0 +1,12 @@
+{
+    "inflation": {
+        "index": "CCPI",
+        "value": 2.20,
+        "month": "March 2026",
+        "status": "Headline Y-o-Y"
+    },
+    "tax_rates": {
+        "WHT": 0.05,
+        "note": "Withholding Tax on interest is currently 5%"
+    }
+}
