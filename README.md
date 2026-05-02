@@ -21,7 +21,6 @@ Unlike standard LLM chatbots, WealthEdge operates as a true Agent using the ReAc
 
 - `/backend` - Contains the FastAPI server, LangChain agent logic (`investment_agent.py`), and tool definitions.
 - `/frontend` - Contains the Vite/React application, custom Tailwind styling, and Markdown parsers.
-- `/database` - Contains the DuckDB initialization scripts and market data ingestion logic.
 
 ## Setup Instructions
 
